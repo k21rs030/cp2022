@@ -1,2 +1,4 @@
 # cp2022
-test
+this is a readme.
+- item1
+- item2
